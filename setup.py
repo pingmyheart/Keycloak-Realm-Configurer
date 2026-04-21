@@ -7,6 +7,6 @@ warnings.filterwarnings("ignore")
 
 setup(
     name='keycloak-realm-configurer',
-    version='0.0.1.dev0',
+    version='0.0.2.dev0',
     packages=find_packages()
 )
